@@ -60,10 +60,10 @@ Criar um ecossistema de agentes reutilizáveis que:
 ## 🏗 Estrutura do Repositório
 
     /agents
-      /development
-      /finance
+      /Desenvolvimento de Software
+      /Financeiro
       /travel
-      /career
+      /Carreira
     /shared
     /docs
 
