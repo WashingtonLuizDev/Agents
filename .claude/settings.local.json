@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"D:/Git/Agents/Desenvolvimento de Software/tony-stack/skills\")",
+      "Bash(mkdir -p \"D:/Git/Agents/Desenvolvimento de Software/dr-strange-scope/skills\")",
+      "Bash(mkdir -p \"D:/Git/Agents/Desenvolvimento de Software/wall-ui/skills\")"
+    ]
+  }
+}
